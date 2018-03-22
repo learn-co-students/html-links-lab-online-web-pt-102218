@@ -1,0 +1,186 @@
+{
+              title: "22 Links - YouTube",
+           host_url: "https://www.youtube.com/watch?v=_vZ7x_nFSl0",
+          presenter: "Jonathan Grover",
+             length: "7:13",
+     slides_summary: [
+        {
+             start_offset: "00:00",
+               end_offset: "00:19",
+                  bullets: [
+                "so let's jump back over to our code and",
+                "the last thing that we want to do is we",
+                "want to add links to link all of these",
+                "pages together so I'm gonna go ahead and",
+                "go here before my image and I'm gonna",
+                "put some links in here so the way that"
+            ]
+        },
+        {
+             start_offset: "00:19",
+               end_offset: "00:50",
+                  bullets: [
+                "we put in links is we use the the a",
+                "element and a stands for anchor link but",
+                "if you have a hard time remembering that",
+                "you can also think of a for action",
+                "because it's an action of changing the",
+                "page you're linking to some other HTML",
+                "page so you can see that it already",
+                "included for us this first attribute",
+                "here which is href which stands for",
+                "Hyper reference and this is going to",
+                "tell the browser where we actually want",
+                "the link to go to so I'm going to go"
+            ]
+        },
+        {
+             start_offset: "00:50",
+               end_offset: "01:53",
+                  bullets: [
+                "ahead and say index.html and in between",
+                "this opening and closing a tag here is",
+                "the actual linkable content so here",
+                "we'll type the text that we want people",
+                "to click on which is about so when they",
+                "click this about text it will change",
+                "them to the index page okay so let's",
+                "create another link and then on this",
+                "particular link we are going to link to",
+                "the new properties HTML page and here",
+                "for the text that it's clickable we'll",
+                "say new properties just like that and",
+                "let's go ahead and make another link",
+                "here and for this next one we will have",
+                "it linked to real estate listings dot",
+                "HTML and we'll type in listings here and"
+            ]
+        },
+        {
+             start_offset: "01:53",
+               end_offset: "02:37",
+                  bullets: [
+                "let's insert another a tag here now for",
+                "this one we're going to have it go to",
+                "market report",
+                "okay and market report is the text that",
+                "will be clickable all right and then",
+                "we'll also put the contact page here",
+                "okay and then this last link here we're",
+                "going to demonstrate linking to another"
+            ]
+        },
+        {
+             start_offset: "02:37",
+               end_offset: "03:51",
+                  bullets: [
+                "website so all of these links are",
+                "internal they're all using the relative",
+                "path to the file which is just the file",
+                "name since these are all in the same",
+                "folder we can just specify the file name",
+                "and for this one we actually wanted to",
+                "link to the Housing and Urban",
+                "Development site which is a government",
+                "website that will tell people about",
+                "loans so that's at HTTP colon slash",
+                "slash hud.gov so here we're putting the",
+                "absolute path or the full path to that",
+                "location and here we'll say Housing and",
+                "Urban Development link okay and these",
+                "links are going to by default they're",
+                "going to target the current window that",
+                "we're in so if I'm on the about page and",
+                "I click the new properties page I'm",
+                "going to leave the about page and go to",
+                "the new properties page but for this",
+                "last link here that links to the Housing",
+                "and Urban Development site I'm going to",
+                "add an additional attribute called",
+                "target and if I set this to underscore",
+                "blank this is going to open a new tab in",
+                "the browser as opposed to you know",
+                "changing the current page run that way"
+            ]
+        },
+        {
+             start_offset: "03:51",
+               end_offset: "05:01",
+                  bullets: [
+                "we don't actually leave our website it",
+                "just still bring up a different tab",
+                "there so I'm going to go ahead and save",
+                "that and then we'll go ahead and copy",
+                "this link code here and I'm going to",
+                "start pasting it into the other pages",
+                "here so I'll go to the contact page",
+                "which is actually empty here currently",
+                "and what we can do is quickly fill this",
+                "guy in I'll go ahead",
+                "and paste in that link code there and",
+                "since we didn't put anything on this",
+                "page I'll just quickly fill it in",
+                "okay and we'll go ahead and go to the"
+            ]
+        },
+        {
+             start_offset: "05:01",
+               end_offset: "05:37",
+                  bullets: [
+                "next page which is market report and",
+                "we'll go ahead and insert those links",
+                "here as well and we'll go to the new",
+                "properties page which also currently is",
+                "blank so we'll just quickly fill this",
+                "guy in as well",
+                "okay"
+            ]
+        },
+        {
+             start_offset: "05:37",
+               end_offset: "06:06",
+                  bullets: [
+                "all right and then we'll go to",
+                "real-estate listings and we'll just be",
+                "able to paste in the links there on that",
+                "page as well so now we'll have the links",
+                "on every single page all right so let's",
+                "go ahead and save and I'm going to go",
+                "ahead and go back to the browser and I'm",
+                "gonna go ahead and close out these other",
+                "tabs except for the index page here and"
+            ]
+        },
+        {
+             start_offset: "06:06",
+               end_offset: "7:13",
+                  bullets: [
+                "we're going to refresh and now we can",
+                "see my text links appear here so if I",
+                "click the new properties link it's going",
+                "to go over here to the new properties",
+                "HTML page which you can see right here",
+                "and if I click the listings link it's",
+                "going to take me here to the property",
+                "archive and popular listings page and if",
+                "I click market report it's going to take",
+                "me here to my page with the marker",
+                "report that has the table in it right",
+                "and then the contact page will take me",
+                "to the contact page the about page will",
+                "take me back to my home page here and",
+                "last but not least we have the the",
+                "Housing and Urban Development link at",
+                "the end and this is the one that I set",
+                "up to target --blank so if we go ahead",
+                "and click that you're going to see that",
+                "instead of leaving my website it opens",
+                "up a new tab that takes me to this",
+                "government website so we can close that",
+                "out and we're still on our website so",
+                "awesome good job you just built your",
+                "first website"
+            ]
+        }
+    ]
+}
