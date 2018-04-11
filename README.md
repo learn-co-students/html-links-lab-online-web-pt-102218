@@ -71,7 +71,7 @@ they're on every HTML file we've created, we can navigate back and forth
 between our pages. If we click on the 'H.U.D.' link, we'll see that it opens a
 new tab instead.
 
-Congratulations, you've just built a website! In some later lesson, we will
+Congratulations, you've just built a website! In later lessons, we will
 return to Exceptional Realty to introduce additional HTML5 concepts. If you're
 working from your own repository, make sure to push to your remote repo so you
 can have your code accessible later.
